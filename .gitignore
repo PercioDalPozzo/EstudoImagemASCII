@@ -1,0 +1,76 @@
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.idea/
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+.vs2019/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files for Visual Studio for Mac
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+[Dd]ebug/
+[Dd]ebug/x64/
+[Dd]ebug/x86/
+[Dd]ebug/arm/
+[Dd]ebug/arm64/
+[Dd]ebug/any/
+[Dd]ebug/anycpu/
+Release/
+Release/x64/
+Release/x86/
+Release/arm/
+Release/arm64/
+Release/any/
+Release/anycpu/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Uncomment if you have tasks that create project's artifacts in /bin
+#bin/
+
+# Uncomment if you have tasks that create project's artifacts in /obj
+#obj/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core Build
+.vs2019/
+
+# User-specific files
+.vs2019/
+
+# Tye
+.tye/
+
+# .NET 6 & later
+.vscode/
