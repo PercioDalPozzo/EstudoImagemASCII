@@ -1,4 +1,6 @@
-﻿using SixLabors.ImageSharp; 
+﻿using System;
+using System.IO;
+using SixLabors.ImageSharp; 
 using SixLabors.ImageSharp.PixelFormats; 
 using System.Text;
 using EstudoImagemASCII;

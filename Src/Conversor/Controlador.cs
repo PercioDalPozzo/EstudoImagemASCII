@@ -1,3 +1,5 @@
+using System;
+
 namespace EstudoImagemASCII;
 
 public class Controlador
